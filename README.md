@@ -2,6 +2,8 @@
 
 A comprehensive digital forensics workflow demonstrating host-based data acquisition, cryptographic verification, and deep-dive artifact analysis to recover deleted file structures while maintaining strict evidentiary integrity.
 
+📥 **Download Full Original Report:** [Digital_Forensics_Lab.docx](./Digital_Forensics_Lab.docx)
+
 ---
 
 ## 🔬 Core Investigative Workflows
@@ -29,6 +31,7 @@ A comprehensive digital forensics workflow demonstrating host-based data acquisi
 ---
 
 ## 📂 Repository File Blueprint
+*   `Digital_Forensics_Lab.docx` — The original, comprehensive Word document detailing the full lab investigation.
 *   `forensic_case_log.md` — Structural template mapping chronological analyst actions and cryptographic verification signatures.
 *   `README.md` — Technical case documentation and environment analysis specifications.
 
